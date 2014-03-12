@@ -1,0 +1,15 @@
+{
+	"folders":
+   [
+		{
+	      	"follow_symlinks": true,
+	        "path": "/Users/chosungmin/work/SourceCode"
+		}
+   ],
+   "settings": {
+    	"sublime-view-in-browser": {
+        	"baseUrl": "http://10.12.46.51",
+        	"basePath": "/Users/chosungmin/work/SourceCode"
+      	}
+	}
+}
