@@ -1,0 +1,21 @@
+{
+	"preferences": {
+		"css.valueSeparator": ":",
+	},
+
+	"snippets": {
+		"variables": {
+			"lang": "ko"
+		},
+
+		"html": {
+			"snippets": {
+				"!D": "<!-- [D] -->"
+			},
+		 	"abbreviations": {
+		 		
+			}
+		}
+	},
+	
+}

@@ -1,6 +1,6 @@
 [
 	{ "keys": ["command+shift+up"], "command": "select_lines", "args": {"forward": false} },
 	{ "keys": ["command+shift+down"], "command": "select_lines", "args": {"forward": true} },
-	{ "keys": [ "command+f12" ], "command": "view_in_browser", "args": { "browser": "chrome" } }
+	{ "keys": ["command+f12"], "command": "view_in_browser", "args": {"browser": "chrome"} }
 ]
 

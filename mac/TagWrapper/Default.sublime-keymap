@@ -10,7 +10,7 @@
 	{
 	    "keys": ["command+ctrl+o"], "command": "tag_wrapper",
 	    "args": {
-	        "tag": "<li>"
+	        "tag": "<ol>"
     	}
 	},
 	{
