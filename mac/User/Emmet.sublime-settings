@@ -1,6 +1,6 @@
 {
 	"preferences": {
-		"css.valueSeparator": ":",
+		"css.valueSeparator": ":"
 	},
 
 	"snippets": {
@@ -16,6 +16,5 @@
 		 		
 			}
 		}
-	},
-	
+	}
 }
