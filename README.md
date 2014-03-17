@@ -22,7 +22,7 @@
 super 키는 ctrl(Windows), command(MAC) 키임.
 
 
-### Preferences.sublime-settings ##
+### Preferences.sublime-settings ###
 
 * close windows when empty : false
 * folder exclued patterns : .idea(webstorm)
@@ -32,12 +32,12 @@ super 키는 ctrl(Windows), command(MAC) 키임.
 * remember open file : false
 * word wrap : true
 
-### Default.sublime-keymap ##
+### Default.sublime-keymap ###
 
-* ctrl + f12 : 현재 작성중인 html 파일 브라우져로 띄우기
+* super + f12 : 현재 작성중인 html 파일 브라우져로 띄우기
 * 멀티셀렉트 키 변경 : mac에서 다른 키와 중복되어 수정함(불필요할 경우 수정 or 삭)
 
-### Emmet.sublime-settings ##
+### Emmet.sublime-settings ###
 
 * 자동 완성 후 ":" 다음 공백 없앰
 * html lang 기본 값 "ko"로 변경
@@ -45,7 +45,7 @@ super 키는 ctrl(Windows), command(MAC) 키임.
  	* !d : 개발 주석 코드 자동 완성
 	* !j : 마크업 확인용 jquery 코드값 자동 완성
 
-### Project 설정 ##
+### Project 설정 ###
 
 * Project > Add Folder to Project : 작업 폴더 선택
 * Project > Save Project As : 프로젝트 세팅 파일 저장
@@ -60,15 +60,17 @@ class TagWrapperCommand() 함수의 아래 코드 주석 처리
 	if s.empty():
 		continue
 
-#### 단축키 ####
+
+## 단축키 ##
 
 * super + t : tag wrapper input
-* alt + shift + s : strip tags
 * super + ctrl + p : <p\> tag insert
 * super + ctrl + o : <ol\> tag insert
 * super + ctrl + u : <ul\> tag insert
 * super + ctrl + l : <li\> tag insert
-
+* super + f12 : Open in browser
+* alt + d : direct file open
+* alt + shift + s : strip tags
 
 
 
