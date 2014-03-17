@@ -51,7 +51,7 @@ super 키는 ctrl(Windows), command(MAC) 키임.
 * Project > Save Project As : 프로젝트 세팅 파일 저장
 * Proejct > Edit Proejct : sublimeTextWorkFolder.sublime-proejct 파일 참고하여 자신에 맞게 수정
 
-### TagWrapper ### 
+### TagWrapper ###
 
 단축키 사용을 위해 tag_wrapper.py 파일 수정 함.
 
