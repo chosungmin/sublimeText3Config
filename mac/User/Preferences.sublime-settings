@@ -1,5 +1,6 @@
 {
 	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -8,6 +9,7 @@
 		"CVS",
 		".idea"
 	],
+	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
@@ -15,5 +17,6 @@
 	],
 	"preview_on_click": false,
 	"remember_open_files": false,
+	"theme": "Spacegray.sublime-theme",
 	"word_wrap": true
 }

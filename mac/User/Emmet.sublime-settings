@@ -10,7 +10,8 @@
 
 		"html": {
 			"snippets": {
-				"!D": "<!-- [D] -->"
+				"!d": "<!-- [D] -->",
+				"!j": "<!-- 마크업 확인용 -->\n<script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js\"></script>\n<!-- //마크업 확인용 -->"
 			},
 		 	"abbreviations": {
 		 		
