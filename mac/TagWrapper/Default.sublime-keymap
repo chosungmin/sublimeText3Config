@@ -1,26 +1,26 @@
 [
-	{ "keys": ["command+t"], "command": "tag_wrapper_input" },
+	{ "keys": ["super+t"], "command": "tag_wrapper_input" },
 	{ "keys": ["alt+shift+s"], "command": "strip_tags" },
 	{
-	    "keys": ["command+ctrl+p"], "command": "tag_wrapper",
+	    "keys": ["super+ctrl+p"], "command": "tag_wrapper",
 	    "args": {
 	        "tag": "<p>"
     	}
 	},
 	{
-	    "keys": ["command+ctrl+o"], "command": "tag_wrapper",
+	    "keys": ["super+ctrl+o"], "command": "tag_wrapper",
 	    "args": {
 	        "tag": "<ol>"
     	}
 	},
 	{
-	    "keys": ["command+ctrl+u"], "command": "tag_wrapper",
+	    "keys": ["super+ctrl+u"], "command": "tag_wrapper",
 	    "args": {
 	        "tag": "<ul>"
     	}
 	},
 	{
-	    "keys": ["command+ctrl+l"], "command": "tag_wrapper",
+	    "keys": ["super+ctrl+l"], "command": "tag_wrapper",
 	    "args": {
 	        "tag": "<li>"
     	}
