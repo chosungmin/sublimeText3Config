@@ -20,4 +20,4 @@ class CssFormatterCommand(sublime_plugin.TextCommand):
 			self.view.erase(edit, sel)
 			
 		for region in self.view.sel():
-			self.view.insert(edit, region.end(), ResponseData);
+			self.view.insert(edit, region.end(), ResponseData.replace('\r\n', '\n'));
