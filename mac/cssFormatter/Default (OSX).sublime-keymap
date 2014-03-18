@@ -1,0 +1,3 @@
+[
+		{ "keys": [ "ctrl+command+shift+s" ], "command": "css_formatter" }
+]
