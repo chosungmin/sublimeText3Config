@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+f12"], "command": "view_in_browser", "args": {"browser": "chrome"} },
+	{ "keys": ["alt+d"], "command": "open_include"}
+]

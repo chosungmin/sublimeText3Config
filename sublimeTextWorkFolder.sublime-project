@@ -1,3 +1,6 @@
+// Windows path, basePath 설정
+// d:\\xxxx\\xxx 형식으로 넣어주면 됨
+
 {
 	"folders":
    [

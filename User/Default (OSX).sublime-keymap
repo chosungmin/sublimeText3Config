@@ -1,6 +1,6 @@
 [
-	{ "keys": ["super+shift+up"], "command": "select_lines", "args": {"forward": false} },
-	{ "keys": ["super+shift+down"], "command": "select_lines", "args": {"forward": true} },
-	{ "keys": ["super+f12"], "command": "view_in_browser", "args": {"browser": "chrome"} },
-	{ "keys": ["alt+d"], "command": "open_include", "args":{} }
+	{ "keys": ["command+shift+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["command+shift+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["command+f12"], "command": "view_in_browser", "args": {"browser": "chrome"} },
+	{ "keys": ["ctrl+d"], "command": "open_include"}
 ]
