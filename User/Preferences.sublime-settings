@@ -1,6 +1,14 @@
 {
+	"alignment_chars":
+	[
+		"="
+	],
+	"alignment_space_chars":
+	[
+		"="
+	],
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -9,11 +17,14 @@
 		"CVS",
 		".idea"
 	],
+	"font_size": 14,
 	"highlight_line": true,
-	"hot_exit": false,
+	"highlight_modified_tabs": true,
+	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Git"
 	],
 	"preview_on_click": false,
 	"remember_open_files": false,
