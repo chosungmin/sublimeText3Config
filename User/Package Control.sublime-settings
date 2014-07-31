@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"AutoFileName",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"Grunt",
+		"Highlight",
+		"MacTerminal",
+		"Markdown Preview",
+		"Open-Include",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SummitLinter",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"VCS Gutter",
+		"View In Browser"
+	]
+}

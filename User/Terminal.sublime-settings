@@ -1,0 +1,7 @@
+{
+	"keys": ["ctrl+alt+t"],
+	"command": "open_terminal",
+	"args": {
+		"parameters": ["-T", "Custom Window Title"]
+	}
+}
