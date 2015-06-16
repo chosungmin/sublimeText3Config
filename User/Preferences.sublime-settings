@@ -7,27 +7,29 @@
 	[
 		"="
 	],
+	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
 	"folder_exclude_patterns":
 	[
-		".svn",
-		".git",
-		".hg",
 		"CVS",
-		".idea"
+		".*"
 	],
-	"font_size": 14,
+	"font_options": "subpixel_antialias",
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"hot_exit": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Git",
 		"Vintage"
 	],
+	"open_files_in_new_window": false,
 	"preview_on_click": false,
-	"remember_open_files": false,
-	"theme": "Spacegray.sublime-theme",
+	"remember_open_files": true,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"theme": "predawn.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }

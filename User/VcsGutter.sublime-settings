@@ -1,3 +1,8 @@
 {
+	"vcs_paths": {
+        "diff": "/usr/bin/diff",
+        "git": "/usr/local/bin/git",
+        "svn": "/usr/bin/svn"
+    },
 	"non_blocking": true
 }
